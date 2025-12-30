@@ -70,9 +70,8 @@ This project analyzes Amazon Store Sales data sourced from Kaggle and presents k
 - Dynamic slicers for flexible data exploration
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](<img width="1517" height="850" alt="amazon sale dashboard" src="https://github.com/user-attachments/assets/2cf8d340-81b6-4a14-ace9-9a4a56beac19" />
-)
-
+![Amazon Sale Dashboard](https://github.com/user-attachments/assets/0f0f87c3-f8c0-450d-ae22-2c7a3e42a4f9)
+*Interactive Power BI dashboard showcasing sales performance across segments, categories, and regions*
 ## 🚀 Getting Started
 
 ### Prerequisites
